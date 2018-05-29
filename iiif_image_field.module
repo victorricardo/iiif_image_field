@@ -20,7 +20,7 @@ function iiif_image_field_libraries_info() {
   $libraries['openseadragon'] = array(
     'name' => 'OpenSeadragon',
     'vendor url' => 'https://openseadragon.github.io',
-    'download url' => 'https://github.com/openseadragon/openseadragon/releases/download/v2.2.1/openseadragon-bin-2.2.1.zip',
+    'download url' => 'https://github.com/openseadragon/openseadragon/releases/download/v2.3.1/openseadragon-bin-2.3.1.zip',
     'version arguments' => array(
       'file' => 'openseadragon.min.js',
       'pattern' => '/openseadragon ([0-9\.]+)/',
